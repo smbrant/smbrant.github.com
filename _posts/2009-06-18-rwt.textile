@@ -1,0 +1,10 @@
+---
+layout: post
+title: The rwt plugin
+---
+
+h1. {{ page.title }}
+
+p(meta). 18 Jun 2009 - Belo Horizonte
+
+The idea come out ...
