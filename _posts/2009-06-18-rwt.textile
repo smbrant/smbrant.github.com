@@ -7,4 +7,4 @@ h1. {{ page.title }}
 
 p(meta). 18 Jun 2009 - Belo Horizonte
 
-The idea came out ...
+The idea came out after fighting a bit with Rails to put a page using ExtJs to work. 
